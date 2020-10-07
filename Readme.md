@@ -17,3 +17,6 @@ Github Followers is the first 100% programmatic UI (no storyboard) app that i bu
 -   UIKit, SafariServices
 -   Singleton, Smalltalk MVC, MVC
 
+# Screenshot
+
+![](/Users/clive/Dropbox/Swift/GithubFollowers/Screenshot.jpeg)
