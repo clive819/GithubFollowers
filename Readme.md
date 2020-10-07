@@ -19,4 +19,4 @@ Github Followers is the first 100% programmatic UI (no storyboard) app that i bu
 
 # Screenshot
 
-![](/Users/clive/Dropbox/Swift/GithubFollowers/Screenshot.jpeg)
+![](Screenshot.jpeg)
