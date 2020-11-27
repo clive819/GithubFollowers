@@ -11,7 +11,7 @@ Github Followers is the first 100% programmatic UI (no storyboard) app that I bu
 -   Layout UI programmatically without using storyboards.
 -   Combine *UISearchController* and *NSDiffableDataSourceSnapshot* to create a smooth animation while searching.
 
-# Technology Used
+# Technologies Used
 
 -   DiffableDataSource, UserDefaults, Delegate
 -   UIKit, SafariServices
