@@ -20,3 +20,7 @@ Github Followers is the first 100% programmatic UI (no storyboard) app that I bu
 # Screenshot
 
 ![](Screenshot.jpeg)
+
+# Credit
+
+This is a take home project from [Sean Allen](https://seanallen.teachable.com/p/take-home).
